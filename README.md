@@ -69,7 +69,7 @@ Quiz, API, sliders, formulaires dynamiques, animations.
 
 ## 📫 Me contacter  
 - 💼 LinkedIn : https://www.linkedin.com/in/marina-bonnet-486b343aa  
-- 🌐 Portfolio : https://marinabonnet.github.io  
+- 🌐 Portfolio : https://marinabonnet.github.io/portfolio/ 
 - ✉️ Email pro : contact@codecraft-web.fr
 
 ---
